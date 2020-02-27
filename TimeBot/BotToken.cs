@@ -8,7 +8,7 @@ namespace TimeBot
 {
     public class BotToken
     {
-        private string Token = "NjgyNDQzMzEzOTc0MDgzNTk1.XldVmA.ZByRUFHyl0znw-1BLszUV7fC_vg";
+        private string Token = "YOUR_BOT_TOKEN";
         public string GetToken
         {
             get { return Token; }
